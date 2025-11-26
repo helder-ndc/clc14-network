@@ -28,7 +28,6 @@ jobs:
           directory: .
           framework: terraform 
         #continue-on-error: true
-          
   Apply:
     name: 'Apply Changes'
     runs-on: ubuntu-latest
